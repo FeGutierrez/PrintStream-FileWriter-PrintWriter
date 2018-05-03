@@ -1,0 +1,6 @@
+Digitado
+Prueba
+Linea3
+Soy un String con espacios
+Prueba
+Linea3
